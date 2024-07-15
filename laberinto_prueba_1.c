@@ -196,4 +196,4 @@ int main()
     printf("\nNumero total de movimientos desde la entrada hasta la salida: %d\n", visited[Alto - 2][Ancho - 2]);
 
     return 0;
-}
+ }
