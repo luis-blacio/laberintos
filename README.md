@@ -4,7 +4,7 @@
 
 **Fecha:** 15/7/2024
 
-**Objetivo:** Desarrollar habilidades en la programación de bucles en C, resolviendo un laberinto.
+**Objetivo:** Desarrollar habilidades en la programación de bucles en C, resolviendo un laberinto que desde el inicio llegue a su final con su movimiento.
 
 **Descripción del repositorio:** Este repositorio contiene las soluciones a los movimientos de laberinto que contiene una entrada y una salida.
 
