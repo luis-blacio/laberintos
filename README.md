@@ -9,7 +9,7 @@
 **Descripción del repositorio:** Este repositorio contiene las soluciones a los movimientos de laberinto que contiene una entrada y una salida.
 
 ### Estructura del Repositorio
-Este laberinto tiene que ir insertando una letra como pide el comentario ("w, a, s, d") se valla moviendo hasta llegar ala salida: 
+Este laberinto se resolvera solo ya que su funcion es automatica.
 
 #### Laberinto:
 
