@@ -13,4 +13,4 @@ Este laberinto se resolvera solo ya que su funcion es automatica.
 
 #### Laberinto:
 
-- https://github.com/luis-blacio/laberintos/blob/main/laberinto_prueba_1.c
+https://github.com/luis-blacio/laberintos/blob/21c5a48da8c16d019b7db718d62b9d318cbc0b5d/laberinto3.0.c
